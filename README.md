@@ -1,4 +1,3 @@
-readme: |
   # 📌 To-Do List Web Application  
   Proyek Mini Coding Camp
 
